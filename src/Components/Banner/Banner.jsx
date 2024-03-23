@@ -3,7 +3,7 @@
 const Banner = () => {
     return (
         <div>
-            <h2>Banner text here</h2>
+            <h2 className="text-3xl font-bold text-center">Home page Banner</h2>
         </div>
     );
 };
